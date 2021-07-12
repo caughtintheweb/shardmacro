@@ -1,8 +1,10 @@
 **IF YOU HAVE AUTOHOTKEY INSTALLED:**
 1. Run the .ahk.
-2. Press Ctrl + Ins.
-3. Done.
-4. If you wish to stop it, press Ctrl + Del.
+2. Go to Eva and be on the first page.
+3. Have 6 helmets and 2 helmets in your inventory (not including one you're wearing)
+4. Press Ctrl + Ins.
+5. Done.
+6. If you wish to stop it, press Ctrl + Del.
 
 **IF YOU DON'T HAVE AUTOHOTKEY INSTALLED:**
 1. Run the .exe.

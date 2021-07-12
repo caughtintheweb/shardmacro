@@ -13,6 +13,7 @@
 **IF YOU WISH TO EDIT THE HOTKEYS, MAKE SURE YOU HAVE AUTOHOTKEY INSTALLED**
 
 https://www.autohotkey.com/
+
 To edit the hotkeys, change ^Ins:: or ^Del:: to "(yourhotkey)::". For a list of what strings you should use, view here https://www.autohotkey.com/docs/KeyList.htm
 
 **Questions that might be asked later**
